@@ -14,16 +14,22 @@ h1{
 }
 
 .app{
-    width: 1em;
+    width: 1.5em;
     
 }
 .ply{
-    width: 3em;
+    width: 2em;
     background-color: none;
 }
 .app-stor{
     background-color: beige;
-    max-width: 10em;
+    min-width: 10em;
+    height: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.8em;
+    border-radius: 30px;
 }
 .play-stor{
     background-color: white;
