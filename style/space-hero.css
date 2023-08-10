@@ -1,0 +1,23 @@
+.space-container{
+    background-color: black;
+    height: 600px;
+}
+h1{
+    color: white;
+    font-family: "Sora";
+    font-size: 4.9em;
+}
+.usd{
+    color: white;
+    font-family: "Bricolage Grotesque";
+    font-size: 1.6em;
+}
+
+.app{
+    width: 1em;
+    
+}
+.app-stor{
+    background-color: beige;
+    max-width: 10em;
+}
