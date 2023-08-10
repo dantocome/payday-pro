@@ -17,7 +17,28 @@ h1{
     width: 1em;
     
 }
+.ply{
+    width: 3em;
+    background-color: none;
+}
 .app-stor{
     background-color: beige;
     max-width: 10em;
+}
+.play-stor{
+    background-color: white;
+    max-width: 10em;
+}
+h2{
+    font-family: "Bricolage Grotesque";
+    font-size: 1.1em;
+}
+h4{
+    font-family: "Encode Sans";
+    font-size: 0.9em;
+    font-weight:300;
+}
+.big-apple{
+    display: flex;
+    gap: 1em;
 }
