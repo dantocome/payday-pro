@@ -1,7 +1,42 @@
 header{
     background-color: black;
-    height: 6em;
+    height: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
 .pays{
     width: 8em;
+}
+.blog{
+    display: flex;
+    gap: 3em;
+}
+.blog li a{
+font-family: "Epilogue";
+color: white;
+word-spacing:normal;
+
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18em;
+}
+.gram li a{
+    font-family: "Epilogue";
+    color: white;
+    font-size: 1em;
+    
+}
+select[name="products"]{
+   border: none;
+   background-color: black;
+   color: white;
+   font-size: 1em;
+   font-weight: 400;
+   font-family: "Epilogue";
 }
