@@ -24,7 +24,8 @@
 .two-containers{
     display: flex;
     gap: 2em;
-    padding: 0.1em 7.5em 0.1em 7.5em;
+    padding: 0.1em 7em 0.1em 7em;
+    border: 1px solid;
 }
 .friends{
     font-family: "Bricolage Grotesque";
