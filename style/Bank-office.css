@@ -1,0 +1,26 @@
+.Bank-house{
+    height: 600px;
+}
+.colo-office{
+    background-color: rgba(81, 153, 81, 0.92);
+    height: 550px;
+    width: 82em;
+    margin: auto;
+    color: dark;
+    display: flex;
+}
+.free-acc{
+    font-family: "Bricolage Grotesque";
+}
+.no-fee{
+    font-family: "Bricolage Grotesque";
+    color: white;
+    font-size: 1.4em;
+    line-height: 1.4;
+}
+.payday{
+    width: 20em;
+    
+    
+    
+}
