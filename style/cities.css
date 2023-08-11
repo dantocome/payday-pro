@@ -1,0 +1,38 @@
+.city-relaxation{
+    height: 600px;
+}
+.citi{
+    width: 40em;
+    
+    
+}
+.paid{
+    width: 40em;
+    
+}
+.homes{
+    background-color: whitesmoke;
+    width: 40em;
+    border-radius: 2em;
+}
+.relax{
+    background-color: whitesmoke;
+    width: 40em;
+    border-radius: 2em;
+}
+.two-containers{
+    display: flex;
+    gap: 3em;
+}
+.friends{
+    font-family: "Bricolage Grotesque";
+    color: black;
+    margin-top: 0.5em;
+    font-size: 3.3em;
+}
+.stage{
+    font-family: "Bricolage Grotesque";
+    color: black;
+    font-size: 1.5em;
+    margin-top: 1em;
+}
