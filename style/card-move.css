@@ -4,7 +4,7 @@
 .moving-card{
     background-color: black;
     height: 565px;
-    width: 80em;
+    width: 78em;
     margin: auto;
     color: dark;
     display: flex;
@@ -19,4 +19,16 @@
 .card-logo{
     margin-left: 3em;
     margin-top: 3em;
+}
+.no-fee{
+    font-size: 1.2em;
+    color: white;
+    font-family:"Bricolage Grotesque";
+    line-height: 1.6;
+    margin-top: 1.3em;
+}
+.free-acc{
+    font-family: "Bricolage Grotesque";
+    margin-top: 0.5em;
+    font-size: 3.2em;
 }

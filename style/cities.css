@@ -2,7 +2,7 @@
     height: 600px;
 }
 .citi{
-    width: 40em;
+    width: 36em;
     
     
 }
@@ -13,18 +13,18 @@
 }
 .homes{
     background-color: whitesmoke;
-    width: 40em;
+    width: 38em;
     border-radius: 2em;
 }
 .relax{
     background-color: whitesmoke;
-    width: 40em;
+    width: 38em;
     border-radius: 2em;
 }
 .two-containers{
     display: flex;
     gap: 2em;
-    padding: 0.1em 5em 0.1em 5em;
+    padding: 0.1em 7.5em 0.1em 7.5em;
 }
 .friends{
     font-family: "Bricolage Grotesque";
@@ -43,7 +43,7 @@
 .lancer{
     font-family: "Bricolage Grotesque";
     color: black;
-    margin-top: 0.5em;
+    margin-top: -0.4em;
     font-size: 3.3em; 
     margin-left: 0.7em;
 }
