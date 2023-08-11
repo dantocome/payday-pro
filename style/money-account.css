@@ -1,0 +1,31 @@
+.money{
+    height: 570px;
+}
+.sent{
+    width: 26em;
+    
+}
+.spent{
+    width: 26em;
+}
+.account{
+    width: 26em;
+}
+.money-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7em 4em 7em 4em;
+    gap: 3em;
+}
+.sen{
+    text-align: center;
+    font-size: 2.6em;
+    color: rgb(50, 48, 48)
+}
+.seconds{
+    text-align: center;
+    font-family: "Bricolage Grotesque";
+    font-size: 1.4em;
+    line-height: 1.5;
+}
