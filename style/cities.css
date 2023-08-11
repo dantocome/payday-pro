@@ -23,7 +23,7 @@
 }
 .two-containers{
     display: flex;
-    gap: 3em;
+    gap: 2em;
     padding: 0.1em 5em 0.1em 5em;
 }
 .friends{
