@@ -2,25 +2,40 @@
     height: 600px;
 }
 .colo-office{
-    background-color: rgba(81, 153, 81, 0.92);
-    height: 550px;
-    width: 82em;
+    background-color: rgba(76, 156, 76, 0.92);
+    height: 565px;
+    width: 84em;
     margin: auto;
     color: dark;
     display: flex;
+    gap: 28em;
+    border-radius: 2em;
 }
 .free-acc{
     font-family: "Bricolage Grotesque";
+    margin-top: 0.5em;
 }
 .no-fee{
     font-family: "Bricolage Grotesque";
     color: white;
     font-size: 1.4em;
     line-height: 1.4;
+    margin-top: 1.3em;
 }
 .payday{
-    width: 20em;
-    
-    
-    
+    width: 15em;  
+}
+.house-logo{
+    margin-left: 3em;
+    margin-top: 3em;
+}
+.btn{
+    width: 11.1em;
+    height: 2.5em;
+    font-size: 1.2em;
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    margin-top: 2em;
 }

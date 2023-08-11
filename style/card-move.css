@@ -1,0 +1,22 @@
+.card-house{
+    height: 600px;
+}
+.moving-card{
+    background-color: black;
+    height: 565px;
+    width: 84em;
+    margin: auto;
+    color: dark;
+    display: flex;
+    gap: 28em;
+    border-radius: 2em;
+    
+}
+.pay{
+    width: 20em;
+    margin-top: 5em;
+}
+.card-logo{
+    margin-left: 3em;
+    margin-top: 3em;
+}
