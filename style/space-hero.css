@@ -43,6 +43,10 @@ h1{
     gap: 0.8em;
     border-radius: 30px;
 }
+.neobank{
+    border: 1px solid white;
+
+}
 h2{
     font-family: "Bricolage Grotesque";
     font-size: 1.1em;
@@ -56,6 +60,7 @@ h4{
     display: flex;
     gap: 1em;
     margin-top: -18em;
+    margin-left: 8em;
 }
 .strs{
     width: 1.5em;
@@ -77,6 +82,7 @@ h3{
     display: flex;
     gap: 2em;
     margin-top: 6em;
+    margin-left: 8em;
 }
 .main-mouse{
     border-right: 1px solid rgb(104, 103, 103);
@@ -92,15 +98,22 @@ h3{
     margin-top: -3em;
 }
 .small-con{
-    margin-left: 6.1em;
+    
 
     
     
 }
 .man{
-    width: 38em;
+    width: 43.5em;
     height: 40.9em;
-    margin-left: 40em;
+    margin-left: 50em;
     margin-top: -20em;
+    border: 1px solid white;
+}
+.neo{
+    margin-left: 2em;
+}
+.usd{
+    margin-left: 5em;
 }
 
