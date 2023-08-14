@@ -5,7 +5,7 @@
 h1{
     color: white;
     font-family: "Sora";
-    font-size: 3.5em;
+    font-size: 3em;
     
     
 }
@@ -48,6 +48,7 @@ h1{
 }
 .neobank{
     border: 1px solid white;
+    margin-left: 8em;
     
     
 
@@ -62,7 +63,7 @@ h1{
     display: flex;
     border: 1px solid white;
     height: 38em;
-    gap: 6.5em;
+    gap: 7.9em;
 }
 h2{
     font-family: "Bricolage Grotesque";
