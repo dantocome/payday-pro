@@ -5,14 +5,15 @@
 h1{
     color: white;
     font-family: "Sora";
-    font-size: 4em;
+    font-size: 3.7em;
 }
 .usd{
     color: white;
     font-family: "Bricolage Grotesque";
-    font-size: 1.7em;
+    font-size: 1.6em;
     margin-top: 1em;
     line-height: 1.5;
+
 }
 
 .app{
@@ -48,8 +49,9 @@ h1{
 
 }
 .euro{
-    width:38em;
-    height: 38em;
+    width:42em;
+    height: 42em;
+    margin-top: -4em;
     
 }
 .container{
@@ -71,6 +73,7 @@ h4{
     display: flex;
     gap: 1em;
     margin-left: 8em;
+    margin-top: 2em;
 }
 .strs{
     width: 1.5em;
@@ -91,7 +94,7 @@ h3{
 .mouse{
     display: flex;
     gap: 2em;
-    margin-top: 6em;
+    margin-top: 2em;
     margin-left: 8em;
 }
 .main-mouse{
@@ -114,7 +117,7 @@ h3{
     
 }
 .neo{
-    margin-left: 2em;
+    margin-left: 1em;
 }
 .usd{
     margin-left: 5em;
