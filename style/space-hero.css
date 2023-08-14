@@ -6,15 +6,17 @@ h1{
     color: white;
     font-family: "Sora";
     font-size: 3.7em;
+    margin-left: 2em;
     
     
 }
 .usd{
     color: white;
     font-family: "Bricolage Grotesque";
-    font-size: 1.2em;
+    font-size: 1.4em;
     margin-top: 1em;
     line-height: 1.5;
+    margin-left: 6em;
 
 }
 
@@ -52,16 +54,17 @@ h1{
     
 }
 .euro{
-    width:43em;
+    width:41em;
     height: 42em;
     margin-top: -4em;
+    
     
 }
 .container{
     display: flex;
     border: 1px solid white;
     height: 38em;
-    gap: 7.9em;
+    gap: 2em;
 }
 h2{
     font-family: "Bricolage Grotesque";
@@ -114,7 +117,8 @@ h3{
     margin-top: -3em;
 }
 .small-con{
-    height: 30em;  
+    border-right: 1px solid white;
+    width: 100em;
 }
 .man{
     
@@ -123,6 +127,6 @@ h3{
   
 }
 .usd{
-    margin-left: 5em;
+
 }
 
