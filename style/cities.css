@@ -24,7 +24,7 @@
 .two-containers{
     display: flex;
     gap: 2em;
-    padding: 0.1em 7em 0.1em 7em;
+    padding: 0.1em 6.8em 0.1em 6.8em;
     border: 1px solid;
 }
 .friends{
