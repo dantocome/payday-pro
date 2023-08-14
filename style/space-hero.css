@@ -62,7 +62,6 @@ h1{
 }
 .container{
     display: flex;
-    border: 1px solid white;
     height: 38em;
     gap: 2em;
 }
@@ -117,7 +116,6 @@ h3{
     margin-top: -3em;
 }
 .small-con{
-    border-right: 1px solid white;
     width: 100em;
 }
 .man{
