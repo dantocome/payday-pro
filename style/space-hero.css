@@ -5,7 +5,7 @@
 h1{
     color: white;
     font-family: "Sora";
-    font-size: 3em;
+    font-size: 3.7em;
     
     
 }
@@ -48,10 +48,8 @@ h1{
 }
 .neobank{
     border: 1px solid white;
-    margin-left: 8em;
     
     
-
 }
 .euro{
     width:43em;
@@ -122,7 +120,7 @@ h3{
     
 }
 .neo{
-
+  
 }
 .usd{
     margin-left: 5em;
