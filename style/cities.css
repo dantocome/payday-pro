@@ -23,7 +23,7 @@
 }
 .two-containers{
     display: flex;
-    gap: 2em;
+    gap: 2.8em;
     padding: 0.1em 6.8em 0.1em 6.8em;
     border: 1px solid;
 }
