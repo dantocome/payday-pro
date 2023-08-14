@@ -47,6 +47,17 @@ h1{
     border: 1px solid white;
 
 }
+.euro{
+    width:35em;
+    height: 38em;
+    
+}
+.container{
+    display: flex;
+    border: 1px solid white;
+    height: 38em;
+    gap: 2em;
+}
 h2{
     font-family: "Bricolage Grotesque";
     font-size: 1.1em;
@@ -59,7 +70,6 @@ h4{
 .big-apple{
     display: flex;
     gap: 1em;
-    margin-top: -18em;
     margin-left: 8em;
 }
 .strs{
@@ -98,17 +108,10 @@ h3{
     margin-top: -3em;
 }
 .small-con{
-    
-
-    
-    
+    height: 30em;  
 }
 .man{
-    max-width: 34em;
-    height: 40.9em;
-    margin-left: 50em;
-    margin-top: -20em;
-    border: 1px solid white;
+    
 }
 .neo{
     margin-left: 2em;
