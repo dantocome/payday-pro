@@ -1,5 +1,5 @@
 .payday-app{
-    height: 600px;border: 1px solid orangered;
+    height: 600px;
 }
 .download{
     font-size: 4em;
@@ -19,8 +19,9 @@
 .wrap{
     display: flex;
     align-items: center;
-    justify-content: center;gap: 2em;
+    justify-content: center;
     margin-top: 2em;
+    gap: 2em;
 }
 .as{
     color: black;
