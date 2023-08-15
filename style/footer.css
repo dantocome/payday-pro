@@ -1,0 +1,117 @@
+.footer{
+    height: 800px;
+    background-color: black;
+}
+.foot-logo{
+    width: 7em;
+}
+.copy{
+    color: gray;
+    font-size: 1.1em;
+    font-family: "Sora";
+    margin-top: 2em;
+}
+.menus{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    margin-top: 2em;
+}
+.menus a{
+    font-family: "Bricolage Grotesque";
+    color: white;
+    font-size: 1.1em;
+}
+.logos{
+    display: flex;
+    gap: 1em;
+}
+.money-point{
+    display: flex;
+    gap: 5em;
+}
+.payss{
+    border-right: 1px solid gainsboro;
+    width: 8em;
+}.sos{
+    width: 1em;
+    border-radius: 30px;
+    margin-top: 0.1em;
+    margin-left: 0.4em;
+
+    
+
+}
+.so{
+    background-color: white;
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    border-radius: 50px;
+    display: flex;
+    gap: 2.7em;
+}
+.ss{
+    width: 1.3em;
+    margin-top: 0.6em;
+    margin-left: 0.3em;
+    height: 1em;
+}
+.inst{
+    background-color: white;
+    width: 2em;
+    height: 2em;
+    border-radius: 50px;
+    display: flex;
+    gap: 2.7em;
+}
+.twitt{
+    display: flex;
+    flex-direction: column;
+    gap: 1.4em;
+}
+.sus{
+    color: white;
+    font-family: "Bricolage Grotesque";
+    font-size: 1.2em;
+    margin-top: 0.4em;
+}
+.tel{
+   display: flex; 
+   gap: 2em;
+}
+a{
+    color: white;
+    font-family: "Sora";
+    font-size: 1.1em;
+}
+.pany{
+    font-family: "Sora";
+}
+.help{
+    font-family: "Bricolage Grotesque";
+    font-size: 1.4em;
+    font-weight: 700;
+}
+.soc{
+    font-family: "Bricolage Grotesque";
+    font-weight: 700;
+    font-size: 1.3em;
+}
+.need{
+    display: flex;
+    flex-direction: column;
+    gap: 3em;
+}
+.social{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+.footer-container{
+    display: flex;
+    gap: 27em;
+    align-items: center;
+    justify-content: center;
+    padding: 5em;
+}

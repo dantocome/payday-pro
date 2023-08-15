@@ -1,9 +1,5 @@
 .card-house{
     height: 600px;
-    border: 1px solid;
-}
-.card-move{
-    border: 1px solid purple;
 }
 .moving-card{
     background-color: black;
