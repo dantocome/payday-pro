@@ -1,10 +1,9 @@
-.city-relaxation{
-    height: 600px;
+
+.cities{
+    height: 750px;
 }
 .citi{
     width: 36em;
-    
-    
 }
 .paid{
     width: 31em;
@@ -15,16 +14,17 @@
     background-color: whitesmoke;
     width: 37em;
     border-radius: 2em;
+    height: 45em;
 }
 .relax{
     background-color: whitesmoke;
     width: 37em;
+    height: 45em;
     border-radius: 2em;
 }
 .two-containers{
     display: flex;
     gap: 2.8em;
-    border: 1px solid;
     align-items: center;
     justify-content: center;
 }

@@ -1,5 +1,9 @@
 .card-house{
     height: 600px;
+    border: 1px solid;
+}
+.card-move{
+    border: 1px solid purple;
 }
 .moving-card{
     background-color: black;
@@ -10,6 +14,7 @@
     display: flex;
     gap: 28em;
     border-radius: 2em;
+    
     
 }
 .pay{
