@@ -30,8 +30,8 @@ h1{
 }
 .app-stor{
     background-color: beige;
-    min-width: 11em;
-    height: 3.5em;
+    min-width: 10em;
+    height: 3.3em;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -40,8 +40,8 @@ h1{
 }
 .play-stor{
     background-color: white;
-    min-width: 11em;
-    height: 3.5em;
+    min-width: 10em;
+    height: 3.3em;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -118,13 +118,5 @@ h3{
 .small-con{
     width: 100em;
 }
-.man{
-    
-}
-.neo{
-  
-}
-.usd{
 
-}
 

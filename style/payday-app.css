@@ -1,16 +1,44 @@
 .payday-app{
-    height: 600px;
+    height: 600px;border: 1px solid orangered;
 }
 .download{
-    font-size: 5em;
-    color: black;
+    font-size: 4em;
+    color: white;
+    margin-top: -5.7em;
     
     
 }
 .mix{
     width: 78em;
     height: 26em;
+    
 }
 .Apps{
     text-align: center;
+}
+.wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;gap: 2em;
+    margin-top: 2em;
+}
+.as{
+    color: black;
+    font-size: 2em;
+}
+.tech{
+    width: 10em;
+}
+.techh{
+    width: 3.5em;
+}
+.headline{
+    text-align: center;
+    margin-top: 6em;
+}
+.bottom-col{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5em;
 }
