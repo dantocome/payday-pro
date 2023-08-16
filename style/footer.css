@@ -1,5 +1,5 @@
 .footer{
-    height: 1200px;
+    height: 1300px;
     background-color: black;
 }
 .foot-logo{
@@ -119,6 +119,7 @@ a{
     width: 1.6em;
     height: 1.6em;
     border-radius: 50px;
+    margin-left: 5em;
 }
 .ad{
 color: white;
@@ -151,14 +152,18 @@ margin-top: 0.1em;
 .loco{
     font-size: 1.5em;
     font-weight: 700;
-    margin-left: -11em;
+    margin-left: -8em;
 }
 .location{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-left: -2.5em;
+    margin-left: 4em;
+    border-bottom: 1px solid gray;
+    height: 25em;
+    width: 80em;
+    
 }
 .ail{
     color: grey;
@@ -173,8 +178,4 @@ margin-top: 0.1em;
     margin-top: 8em;
     padding: 1em 6em 1em 5em;
      
-}
-.line{
-    border-top: 1px solid gray;
-    
 }
