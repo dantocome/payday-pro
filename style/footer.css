@@ -171,7 +171,7 @@ margin-top: 0.1em;
 .ail{
     color: grey;
     font-family: "Sora";
-    font-size: 0.9em;
+    font-size: 0.8em;
     line-height: 2;
     
 }
@@ -179,6 +179,6 @@ margin-top: 0.1em;
     display: flex;
     flex-direction: column;
     margin-top: 1em;
-padding: 0em 6em 0em 7em;
+padding: 0em 8em 0em 8em;
      
 }
