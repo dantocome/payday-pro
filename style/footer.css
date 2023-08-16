@@ -1,5 +1,5 @@
 .footer{
-    height: 800px;
+    height: 1200px;
     background-color: black;
 }
 .foot-logo{
@@ -159,4 +159,22 @@ margin-top: 0.1em;
     align-items: center;
     justify-content: center;
     margin-left: -2.5em;
+}
+.ail{
+    color: grey;
+    font-family: "Sora";
+    font-size: 0.9em;
+    line-height: 2;
+    
+}
+.tail{
+    display: flex;
+    flex-direction: column;
+    margin-top: 8em;
+    padding: 1em 6em 1em 5em;
+     
+}
+.line{
+    border-top: 1px solid gray;
+    
 }
