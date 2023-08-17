@@ -58,4 +58,11 @@
         display: flex;
 
     }
+    .official{
+        margin-top: -1em;
+        
+    }
+    .vg{
+        margin-top: 1em;
+    }
 }
