@@ -14,6 +14,9 @@ header{
     display: flex;
     gap: 3em;
 }
+.men{
+    display: none;
+}
 .blog li a{
 font-family: "Epilogue";
 color: white;
@@ -40,4 +43,31 @@ select[name="products"]{
    font-size: 1em;
    font-weight: 400;
    font-family: "Epilogue";
+}
+@media screen and (max-width:375px){
+    .menu{
+        display: none;
+    }
+    .gram{
+        display: none;
+    }
+    .men{
+        display: block;
+    }
+    .pay-logo{
+        display: flex;
+        gap: 12em;
+    }
+    header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    position: sticky;
+    height: 4em;
+    }
+    .pays{
+        width: 7em;
+        margin-top: -0.5em;
+    }
 }

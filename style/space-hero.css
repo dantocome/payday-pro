@@ -7,9 +7,9 @@ h1{
     font-family: "Sora";
     font-size: 3.5em;
     margin-left: 1em;
-    
-    
 }
+
+
 .usd{
     color: white;
     font-family: "Bricolage Grotesque";
@@ -117,6 +117,49 @@ h3{
 }
 .small-con{
     width: 100em;
+}
+
+@media screen and (max-width:375px){
+    span{
+        display: none;
+        
+    }
+    .mouse{
+        margin-left: 2em;
+        margin-top: 4.6em;
+    }
+    h1{
+        font-size: 2em;
+    }
+    .usd{
+        padding: 0 1em 0 0.1em;
+    }
+    .uss{
+        margin-left: -2em;
+    }
+    .big-apple{
+        display: flex;
+        flex-direction: column;
+        margin-left: 1.8em;
+    }
+    .euro{
+        display: none;
+    }
+    .app-stor{
+        width: 2em;
+        height: 3.2em;
+    }
+    .play-stor{
+        width: 2em;
+        height: 3.2em;
+    }
+    .rate{
+        display: none;
+    }
+    .space-container{
+        height: 480px;
+    }
+
 }
 
 

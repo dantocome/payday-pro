@@ -1,4 +1,4 @@
-.money{
+.money-account{
     height: 570px;
 }
 .sent{
@@ -28,4 +28,23 @@
     font-family: "Bricolage Grotesque";
     font-size: 1.4em;
     line-height: 1.5;
+}
+@media screen and (max-width:375px){
+    .money-container{
+        display: flex;
+        flex-direction: column;
+        margin-top: -3em;
+    }
+    .sent{
+        width: 20em;
+    }
+    .spent{
+        width: 20em;
+    }
+    .account{
+        width: 20em;
+    }
+    .money-account{
+        height: 1100px;
+    }
 }
