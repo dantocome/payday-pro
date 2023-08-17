@@ -1,4 +1,4 @@
-.Bank-house{
+.Bank-office{
     height: 600px;
 }
 .colo-office{
@@ -6,7 +6,6 @@
     height: 565px;
     width: 77em;
     margin: auto;
-    color: dark;
     display: flex;
     gap: 28em;
     border-radius: 2em;
@@ -39,4 +38,24 @@
     border: none;
     border-radius: 8px;
     margin-top: 2em;
+}
+.ti{
+    display: none;
+}
+@media screen and (max-width:375px){
+    .colo-office{
+        width: 22em 
+    }
+    .free-acc{
+        display: none;
+        
+    }
+    .phones{
+        display: none;
+    }
+    .ti{
+        font-size: 1.9em;
+        display: flex;
+
+    }
 }
