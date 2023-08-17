@@ -59,11 +59,23 @@
 .dat{
     display: none;
 }
+.for{
+    display: none;
+}
+.loya{
+    display: block;
+}
 @media screen and (max-width:375px){
     .two-containers{
         display: flex;
         flex-direction: column;
         margin-top: -6.5em;
+    }
+    .loya{
+        display: none;
+    }
+    .for{
+        display: block;
     }
     .citi{
         width: 20em;
@@ -86,5 +98,17 @@
     }
     .friends{
         display: none;
+    }
+    .lancer{
+        display: none;
+    }
+    .relax{
+        width: 22em;
+        height: 35em;
+        margin-top: -2em;
+    }
+    .paid{
+        width: 20em;
+        margin-left: 2em;
     }
 }
