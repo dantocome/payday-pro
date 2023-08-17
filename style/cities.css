@@ -56,3 +56,27 @@
     margin-top: 1em;
     margin-left: 1.3em;
 }
+.ds{
+    display: none;
+}
+@media screen and (max-width:375px){
+    .two-containers{
+        display: flex;
+        flex-direction: column;
+        margin-top: -6.5em;
+    }
+    .citi{
+        width: 20em;
+        margin-top: 5em;
+    }
+    .homes{
+        width: 22em;
+    }
+    .cash{
+        margin-top: 2em;
+    }
+    .ds{
+        display: flex;
+        font-size: 0.5em;
+    }
+}
