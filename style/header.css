@@ -55,8 +55,8 @@ select[name="products"]{
         display: block;
     }
     .pay-logo{
-        display: flex;
-        gap: 12em;
+        margin-left: 5em;
+        
     }
     header{
     display: flex;
@@ -72,9 +72,10 @@ select[name="products"]{
     }
     .men{
         display: block;
+        margin-right: 3em;
     }
     nav{
         display: flex;
-        gap: 12em;
+        
     }
 }

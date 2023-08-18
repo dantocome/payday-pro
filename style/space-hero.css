@@ -128,7 +128,8 @@ h3{
     .mouse{
         margin-left: 2em;
         margin-top: 3.6em;
-        gap: 3em;
+
+        
     }
     h1{
         font-size: 2em;
@@ -166,6 +167,7 @@ h3{
     .strs{
         background-color: white;
     }
+    
     
 
 }
