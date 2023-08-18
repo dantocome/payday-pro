@@ -22,11 +22,12 @@ h1{
 
 .app{
     width: 1.5em;
+    background-color: white;
     
 }
 .ply{
     width: 2em;
-    background-color: none;
+    background-color: white;
 }
 .app-stor{
     background-color: beige;
@@ -126,7 +127,7 @@ h3{
     }
     .mouse{
         margin-left: 2em;
-        margin-top: 4.6em;
+        margin-top: 3.6em;
     }
     h1{
         font-size: 2em;
@@ -141,6 +142,7 @@ h3{
         display: flex;
         flex-direction: column;
         margin-left: 1.8em;
+        gap: 2em;
     }
     .euro{
         display: none;
