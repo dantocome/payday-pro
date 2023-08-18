@@ -44,7 +44,8 @@
 }
 @media screen and (max-width:375px){
     .colo-office{
-        width: 22em 
+        width: 22em;
+        margin-top: -1em; 
     }
     .free-acc{
         display: none;
