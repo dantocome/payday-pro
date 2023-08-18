@@ -142,7 +142,7 @@ h3{
         display: flex;
         flex-direction: column;
         margin-left: 1.8em;
-        gap: 2em;
+    
     }
     .euro{
         display: none;
@@ -154,6 +154,7 @@ h3{
     .play-stor{
         width: 2em;
         height: 3.2em;
+        margin-top: 1em;
     }
     .rate{
         display: none;
