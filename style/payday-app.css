@@ -92,7 +92,11 @@
     }
     .img1{
         display: flex;
+        margin-top: 1.5em;
 
+    }
+    .img2{
+        margin-top: 1.5em;
     }
     .techh{
         margin-left: 2em;
