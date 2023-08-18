@@ -46,6 +46,7 @@
     .colo-office{
         width: 22em;
         margin-top: -1em; 
+        margin-top: -1em;
     }
     .free-acc{
         display: none;
@@ -65,5 +66,8 @@
     }
     .vg{
         margin-top: 1em;
+    }
+    .Bank-office{
+        
     }
 }
