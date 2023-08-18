@@ -73,7 +73,7 @@
         font-size: 2em;
         font-family: "Sora";
         font-weight: 700;
-    }
+
     .wrap{
           display: flex;
           flex-direction: column;
@@ -85,7 +85,7 @@
     .bottom-col{
         display: flex;
         flex-direction: column;
-        gap: 1em;
+        gap: 1.5em;
     }
     .headline{
         margin-top: 4em;
