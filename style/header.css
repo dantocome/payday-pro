@@ -70,4 +70,11 @@ select[name="products"]{
         width: 7em;
         margin-top: -0.5em;
     }
+    .men{
+        display: block;
+    }
+    nav{
+        display: flex;
+        gap: 12em;
+    }
 }
