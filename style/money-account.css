@@ -34,16 +34,18 @@
         display: flex;
         flex-direction: column;
         margin-top: -3em;
-        gap: 2em;
+        
     }
     .sent{
         width: 20em;
     }
     .spent{
         width: 20em;
+        margin-left: 1.5em;
     }
     .account{
         width: 20em;
+        margin-top: 1em;
     }
     .money-account{
         height: 1240px;
