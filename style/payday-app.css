@@ -44,3 +44,42 @@
     gap: 2.5em;
     margin-top: 2em;
 }
+.download{
+    display: block;
+}
+.mobil-text{
+    display: none;
+}
+
+@media screen and (max-width:375px){
+    .mix{
+        width: 22em;
+        height: 27em;
+        margin-top: -9em;
+        border-radius: 2em;
+    }
+    .download{
+        display: none;
+    }
+    .mobil-text{
+        display: block;
+        margin-top: -25em;
+    }
+    .mob{
+        color: white;
+        font-size: 2em;
+        font-family: "Sora";
+        font-weight: 700;
+    }
+    .wrap{
+          display: flex;
+          flex-direction: column;
+          gap: 1em;
+    }
+    .Apps{
+        margin-top: -9em;
+    }
+    
+    
+    
+}
