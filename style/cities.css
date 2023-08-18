@@ -21,11 +21,11 @@
     width: 37em;
     height: 42em;
     border-radius: 2em;
-    margin-top: 2em;
+    
 }
 .two-containers{
     display: flex;
-    gap: 2.8em;
+    gap: 4em;
     align-items: center;
     justify-content: center;
 }
