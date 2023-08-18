@@ -179,12 +179,57 @@ margin-top: 0.1em;
     display: flex;
     flex-direction: column;
     margin-top: 1em;
-    padding: 0em 4em 0em 4em;
-    padding: 0 0 0 9em;
+    padding: 0em 2em 0em 2em;
+     
      
 }
 @media screen and (max-width:375px){
     .footer{
         margin-top: 5em;
+        height: 2000px;
+    }
+    .company{
+        display: none;
+    }
+    .menus{
+        display: flex;
+    }
+    .compo{
+        display: flex;
+        flex-direction: column;
+        gap: none;
+    }
+    .footer-container{
+        display: flex;
+        flex-direction: column;
+        margin-left: -14em;
+    }
+    .location{
+        border-bottom: 1px solid grey;
+        width: 20em;
+        margin-left: 2em;
+    }
+    .need{
+        margin-left: 7em;
+        margin-top: -20em;
+    }
+    .help{
+        margin-top: -3em;
+    
+    }
+    .link{
+        margin-top: -1.5em;
+    }
+    .soc{
+        margin-top: -1em;
+    }
+    .location{
+        
+    }
+    .loco{
+        margin-left: -9em;
+    }
+    .base{
+        margin-left: 2em;
     }
 }
