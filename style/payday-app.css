@@ -79,6 +79,22 @@
     .Apps{
         margin-top: -9em;
     }
+    .bottom-col{
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+    }
+    .headline{
+        margin-top: 4em;
+    }
+    .img1{
+        display: flex;
+        gap: 3em;
+    }
+    .img3{
+        display: flex;
+        gap: 2em;
+    }
     
     
     
