@@ -193,8 +193,10 @@ margin-top: 0.1em;
     }
     .menus{
         display: flex;
-        gap: 2em;
         flex-direction: column;
+    }
+    .menus a{
+        gap: 2em;
     }
     .compo{
     
