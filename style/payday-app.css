@@ -30,6 +30,9 @@
 .tech{
     width: 10em;
 }
+.teech{
+    width: 10em;
+}
 .techh{
     width: 3.5em;
 }
@@ -89,11 +92,16 @@
     }
     .img1{
         display: flex;
-        gap: 3em;
+
+    }
+    .techh{
+        margin-left: 2em;
     }
     .img3{
         display: flex;
-        gap: 2em;
+    }
+    .teech{
+        margin-left: 2em;
     }
     
     
