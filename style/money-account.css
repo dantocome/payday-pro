@@ -34,7 +34,7 @@
         display: flex;
         flex-direction: column;
         margin-top: -3em;
-        gap: 1em;
+        gap: 2em;
     }
     .sent{
         width: 20em;
