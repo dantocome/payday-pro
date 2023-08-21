@@ -85,19 +85,7 @@
     font-size: 1.2em;
     margin-top: 0.4em;
 }
-.su{
-    color: white;
-    font-family: "Bricolage Grotesque";
-    font-size: 1.2em;
-    margin-top: 0.4em;
 
-}
-.st{
-    color: white;
-    font-family: "Bricolage Grotesque";
-    font-size: 1.2em;
-    margin-top: 0.4em;
-}
 .tel{
    display: flex; 
    gap: 2.7em;
@@ -278,6 +266,6 @@ margin-top: 0.1em;
         margin-left: 2em;
     
     }
-    .su{
+    
     
 }
