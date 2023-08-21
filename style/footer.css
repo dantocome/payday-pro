@@ -65,6 +65,14 @@
     display: flex;
     gap: 2.7em;
 }
+.soo{
+    background-color: white;
+    width: 2em;
+    height: 2em;
+    border-radius: 50px;
+    display: flex;
+    gap: 2.7em;
+}
 .twitt{
     display: flex;
     flex-direction: column;
@@ -79,7 +87,7 @@
 }
 .tel{
    display: flex; 
-   gap: 2em;
+   gap: 2.7em;
 }
 a{
     color: white;
@@ -257,6 +265,6 @@ margin-top: 0.1em;
     }
     .twitt{
         display: flex;
-        gap: 2em;
+    
     }
 }
