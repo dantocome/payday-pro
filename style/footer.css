@@ -65,7 +65,7 @@
     display: flex;
     gap: 2.7em;
 }
-.soo{
+.sag{
     background-color: white;
     width: 2em;
     height: 2em;
@@ -265,9 +265,6 @@ margin-top: 0.1em;
     .twitt{
         display: flex;
         flex-direction: column;
-    }
-    .soo{
-        display: flex;
     }
     .inst{
         display: flex;
