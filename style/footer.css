@@ -251,7 +251,8 @@ margin-top: 0.1em;
     }
     .so{
         display: flex;
-        gap: 5em;
-
+    }
+    .sus{
+        margin-left: 2em;
     }
 }
