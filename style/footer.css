@@ -88,6 +88,9 @@
 .tel{
    display: flex; 
    gap: 2.7em;
+   width: 2em;
+   height: 2em;
+   border-radius: 50px;
 }
 a{
     color: white;
@@ -261,7 +264,7 @@ margin-top: 0.1em;
         display: flex;
     }
     .sus{
-        margin-left: 2em;
+        margin-left: 2.5em;
     }
     .twitt{
         display: flex;
