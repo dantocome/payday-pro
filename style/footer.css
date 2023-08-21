@@ -260,14 +260,7 @@ margin-top: 0.1em;
     .flag{
         margin-top: 0.5em;
     }
-    
-    
-    .twitt{
-        display: flex;
-        flex-direction: column;
-    }
-    
     .sus{
-        margin-left: 2em;
+    
     }
 }
