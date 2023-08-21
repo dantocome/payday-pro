@@ -249,4 +249,9 @@ margin-top: 0.1em;
     .flag{
         margin-top: 0.5em;
     }
+    .so{
+        display: flex;
+        gap: 5em;
+
+    }
 }
