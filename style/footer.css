@@ -266,6 +266,9 @@ margin-top: 0.1em;
         margin-left: 2em;
     
     }
+    .sos{
+        z-index: 1;
+    }
     
     
 }
