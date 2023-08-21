@@ -255,4 +255,8 @@ margin-top: 0.1em;
     .sus{
         margin-left: 2em;
     }
+    .twitt{
+        display: flex;
+        gap: 2em;
+    }
 }
