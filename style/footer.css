@@ -123,6 +123,12 @@ a{
     border-radius: 50px;
     margin-left: -3em;
 }
+.flg{
+    width: 1.6em;
+    height: 1.6em;
+    border-radius: 50px;
+    margin-left: -3em;
+}
 .ad{
 color: white;
 font-family: "Bricolage Grotesque";
@@ -237,7 +243,7 @@ margin-top: 0.1em;
     .base{
         margin-left: 2em;
     }
-    .bott-col{
-        
+    .ad{
+        margin-left: 0.5em;
     }
 }
