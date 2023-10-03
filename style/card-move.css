@@ -73,6 +73,34 @@
         
     }
 }
+
+@media screen and (max-width:450px){
+    .moving-card{
+        width: 22em;
+        height: 30em;
+        margin-top: -1.5em;
+        
+    }
+    .tis{
+        display: flex;
+        font-size: 1.9em;
+    }
+    .world{
+        display: block;
+    }
+    .vit{
+        display: block;
+    }
+    .phones{
+        display: none;
+    }
+    .mores{
+        margin-top: 2em;
+    }
+    .offi{
+        margin-top: -1em;
+    }
+}
 @media screen and (max-width:375px){
     .moving-card{
         width: 22em;
@@ -99,8 +127,6 @@
     .offi{
         margin-top: -1em;
     }
-    .card-logo{
-        
-    }
+    
 
 }

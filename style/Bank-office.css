@@ -68,8 +68,35 @@
     .vg{
         margin-top: 1em;
     }
-    .Bank-office{
+    .card-house{
+        margin-top: -1em;
+    }
+}
+
+@media screen and (max-width:450px){
+    .colo-office{
+        width: 22em;
+        margin-top: -1em; 
+    
+    }
+    .free-acc{
+        display: none;
         
+    }
+    .phones{
+        display: none;
+    }
+    .ti{
+        font-size: 1.9em;
+        display: flex;
+
+    }
+    .official{
+        margin-top: -1em;
+        
+    }
+    .vg{
+        margin-top: 1em;
     }
     .card-house{
         margin-top: -1em;
@@ -99,9 +126,6 @@
     }
     .vg{
         margin-top: 1em;
-    }
-    .Bank-office{
-        
     }
     .card-house{
         margin-top: -1em;

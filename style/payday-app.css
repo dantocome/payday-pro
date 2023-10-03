@@ -57,6 +57,9 @@
 }
 
 @media screen and (max-width:500px){
+    .payday-app{
+        height: 600px;
+    }
     .mix{
         width: 22em;
         height: 27em;
@@ -82,16 +85,17 @@
           gap: 1em;
     }
     .Apps{
-        margin-top: -9em;
+        margin-top: 42em;
     }
     .bottom-col{
         display: flex;
         flex-direction: column;
         margin-top: 1em;
+        gap: 1em;
         
     }
     .headline{
-         margin-top: 4em;
+         margin-top: 5em;
     }
     .img1{
         display: flex;
@@ -116,7 +120,74 @@
     }
     .techh{
         width: 2.5em;
-    } 
+    }
+}
+
+@media screen and (max-width:450px){
+    .payday-app{
+        height: 600px;
+    }
+    .mix{
+        width: 22em;
+        height: 27em;
+        margin-top: -9em;
+        border-radius: 2em;
+    }
+    .download{
+        display: none;
+    }
+    .mobil-text{
+        display: block;
+        margin-top: -25em;
+    }
+    .mob{
+        color: white;
+        font-size: 2em;
+        font-family: "Sora";
+        font-weight: 700;
+    }
+    .wrap{
+          display: flex;
+          flex-direction: column;
+          gap: 1em;
+    }
+    .Apps{
+        margin-top: 42em;
+    }
+    .bottom-col{
+        display: flex;
+        flex-direction: column;
+        margin-top: 1em;
+        gap: 1em;
+        
+    }
+    .headline{
+         margin-top: 5em;
+    }
+    .img1{
+        display: flex;
+        margin-top: 1em;
+
+    }
+    .img2{
+        margin-top: 1em;
+    }
+    .techh{
+        margin-left: 2em;
+    }
+    .img3{
+        display: flex;
+        margin-top: 1em;
+    }
+    .teech{
+        margin-left: 2em;
+    }
+    .tech{
+        width: 8em;
+    }
+    .techh{
+        width: 2.5em;
+    }
 }
 
 @media screen and (max-width:375px){

@@ -219,8 +219,66 @@ margin-top: 0.1em;
     .menus a{
         gap: 2em;
     }
-    .compo{
+    .footer-container{
+        display: flex;
+        flex-direction: column;
+        margin-left: -14em;
+        gap: 0.1em;
+    }
+    .location{
+        border-bottom: 1px solid grey;
+        width: 20em;
+        margin-left: 2em;
+    }
+    .need{
+        margin-left: 7em;
+        margin-top: 4em;
+    }
+    .nee{
+        margin-top: -10em;
     
+    }
+    .link{
+        margin-top: -2em;
+    }
+    .soc{
+        margin-top: 1em;
+    }
+    .loco{
+        margin-left: -9em;
+    }
+    .base{
+        margin-left: 2em;
+    }
+    .ad{
+        margin-left: 0.5em;
+    }
+    .flag{
+        margin-top: 0.5em;
+    }
+    .sus{
+        margin-left: 2em;
+    
+    }
+    .sos{
+        z-index: 2;
+    }
+}
+
+@media screen and (max-width:450px){
+    .footer{
+        margin-top: 5em;
+        height: 1760px;
+    }
+    .company{
+        display: none;
+    }
+    .menus{
+        display: flex;
+        flex-direction: column;
+    }
+    .menus a{
+        gap: 2em;
     }
     .footer-container{
         display: flex;
@@ -247,9 +305,7 @@ margin-top: 0.1em;
     .soc{
         margin-top: 1em;
     }
-    .location{
-        
-    }
+    
     .loco{
         margin-left: -9em;
     }
@@ -285,9 +341,6 @@ margin-top: 0.1em;
     .menus a{
         gap: 2em;
     }
-    .compo{
-    
-    }
     .footer-container{
         display: flex;
         flex-direction: column;
@@ -313,9 +366,7 @@ margin-top: 0.1em;
     .soc{
         margin-top: 1em;
     }
-    .location{
-        
-    }
+    
     .loco{
         margin-left: -9em;
     }

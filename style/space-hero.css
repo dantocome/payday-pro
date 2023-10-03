@@ -120,6 +120,69 @@ h3{
     width: 100em;
 }
 
+@media screen and (max-width:450px){
+    .mix{
+        width: 22em;
+        height: 27em;
+        margin-top: -9em;
+        border-radius: 2em;
+    }
+    .download{
+        display: none;
+    }
+    .mobil-text{
+        display: block;
+        margin-top: -25em;
+    }
+    .mob{
+        color: white;
+        font-size: 2em;
+        font-family: "Sora";
+        font-weight: 700;
+    }
+    .wrap{
+          display: flex;
+          flex-direction: column;
+          gap: 1em;
+    }
+    .Apps{
+        margin-top: -9em;
+    }
+    .bottom-col{
+        display: flex;
+        flex-direction: column;
+        margin-top: 1em;
+        
+    }
+    .headline{
+         margin-top: 4em;
+    }
+    .img1{
+        display: flex;
+        margin-top: 1em;
+
+    }
+    .img2{
+        margin-top: 1em;
+    }
+    .techh{
+        margin-left: 2em;
+    }
+    .img3{
+        display: flex;
+        margin-top: 1em;
+    }
+    .teech{
+        margin-left: 2em;
+    }
+    .tech{
+        width: 8em;
+    }
+    .techh{
+        width: 2.5em;
+    } 
+}
+
 @media screen and (max-width:500px){
     span{
         display: none;
@@ -170,6 +233,59 @@ h3{
     .main-mouse{
         margin-left: -1em;
     }
+}
+
+@media screen and (max-width:450px){
+    span{
+        display: none;
+        
+    }
+    .mouse{
+        margin-left: 2em;
+        margin-top: 3.6em;
+
+        
+    }
+    h1{
+        font-size: 2em;
+    }
+    .usd{
+        padding: 0 1em 0 0.1em;
+    }
+    .uss{
+        margin-left: -2em;
+    }
+    .big-apple{
+        display: flex;
+        flex-direction: column;
+        margin-left: 1.8em;
+    
+    }
+    .euro{
+        display: none;
+    }
+    .app-stor{
+        width: 2em;
+        height: 3.2em;
+    }
+    .play-stor{
+        width: 2em;
+        height: 3.2em;
+        margin-top: 1em;
+    }
+    .rate{
+        display: none;
+    }
+    .space-container{
+        height: 480px;
+    }
+    .strs{
+        background-color: white;
+    }
+    .main-mouse{
+        margin-left: -1em;
+    }
+    
 }
 
 @media screen and (max-width:375px){
