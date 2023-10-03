@@ -29,6 +29,29 @@
     font-size: 1.4em;
     line-height: 1.5;
 }
+@media screen and (max-width:500px){
+    .money-container{
+        display: flex;
+        flex-direction: column;
+        margin-top: -3em;
+        
+    }
+    .sent{
+        width: 20em;
+    }
+    .spent{
+        width: 20em;
+        margin-left: 1.5em;
+    }
+    .account{
+        width: 20em;
+        margin-top: 1em;
+    }
+    .money-account{
+        height: 1240px;
+    }
+
+}
 @media screen and (max-width:375px){
     .money-container{
         display: flex;
