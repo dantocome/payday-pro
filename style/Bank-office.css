@@ -7,8 +7,11 @@
     width: 77em;
     margin: auto;
     display: flex;
-    gap: 28em;
+    gap: 20em;
     border-radius: 2em;
+    align-items: center;
+    justify-content: center;
+    
 }
 .free-acc{
     font-family: "Bricolage Grotesque";
